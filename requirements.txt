@@ -1,7 +1,8 @@
 streamlit
 langchain==0.0.350
-huggingface_hub
-sentence-transformers
-faiss-cpu
+huggingface_hub==0.20.3
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
 python-dotenv
 PyPDF2
+
